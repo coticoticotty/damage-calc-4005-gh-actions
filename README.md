@@ -37,4 +37,4 @@ console.log(dc.effectiveDamage(100, 50, 30));
 計算すると 83.33333... となり、
 小数点以下の四捨五入の結果、ダメージの 83 の値が得られます。
 
-![](https://github.com/coticoticotty/damage-calc-4005-gh-actions/workflows/Damage Calculation Test/badge.svg)
+![](https://github.com/coticoticotty/damage-calc-4005-gh-actions/workflows/Damage%20Calculation Test/badge.svg)
